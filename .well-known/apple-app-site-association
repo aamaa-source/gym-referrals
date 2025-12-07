@@ -4,7 +4,11 @@
     "details": [
       {
         "appID": "X27YL2G773.Carlos.GymLogger",
-        "paths": [ "/*" ]
+        "paths": ["/*"]
+      },
+      {
+        "appID": "X27YL2G773.Carlos.Gymlogger.dev",
+        "paths": ["/*"]
       }
     ]
   }
