@@ -3,12 +3,8 @@
     "apps": [],
     "details": [
       {
-        "appID": "X27YL2G773.Carlos.GymLogger",
-        "paths": ["/*"]
-      },
-      {
         "appID": "X27YL2G773.Carlos.GymLogger.dev",
-        "paths": ["/*"]
+        "paths": [ "/*" ]
       }
     ]
   }
